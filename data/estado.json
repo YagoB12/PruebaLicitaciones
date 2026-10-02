@@ -1,17 +1,17 @@
 {
-  "ultima_ejecucion": "2026-10-01T19:29:19.604Z",
+  "ultima_ejecucion": "2026-10-02T19:03:31.848Z",
   "origen": "github-actions",
   "repositorio": "YagoB12/PruebaLicitaciones",
   "workflow": "buscar.yml",
-  "run_url": "https://github.com/YagoB12/PruebaLicitaciones/actions/runs/36912516003",
+  "run_url": "https://github.com/YagoB12/PruebaLicitaciones/actions/runs/37050429422",
   "resumen": {
     "portalesRevisados": 8,
-    "totalAnalizadas": 1718,
-    "candidatas": 308,
-    "relevantes": 14,
-    "duplicadas": 3,
-    "nuevas": 11,
-    "archivo": "data/results/licitaciones-2026-10-01.json"
+    "totalAnalizadas": 1715,
+    "candidatas": 272,
+    "relevantes": 13,
+    "duplicadas": 8,
+    "nuevas": 5,
+    "archivo": "data/results/licitaciones-2026-10-02.json"
   },
   "errores": []
 }
